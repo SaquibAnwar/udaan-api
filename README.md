@@ -13,7 +13,7 @@ Refer package.json to get insight of all the dependencies used in the projects .
 ```
 	npm install --save body-parser
 ```
-In the similar fashion you can install all the dependencies present in the project
+>In the similar fashion you can install all the dependencies present in the project
 
  * cors
  * express
