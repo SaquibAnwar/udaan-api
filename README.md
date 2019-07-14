@@ -1,13 +1,11 @@
-# udaan-api
-Housekeeping api for udaan.com
-#HouseKeeping API (Udaan.com)
+# HouseKeeping API (Udaan.com)
 >api made of udaan.com's test.
 
 ##Framework Used : Node.js
 >make sure ypu have node.js installed in your system.
 
 
-##Dependencies Used:
+## Dependencies Used:
 Refer package.json to get insight of all the dependencies used in the projects . Following are some of the packages used:
 
 * body-parser
