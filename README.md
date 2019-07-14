@@ -2,7 +2,7 @@
 >api made of udaan.com's test.
 
 ### Framework Used : Node.js
->make sure ypu have node.js installed in your system.
+>make sure you have node.js installed in your system.
 
 
 ## Dependencies Used:
