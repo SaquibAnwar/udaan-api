@@ -22,7 +22,7 @@ Refer package.json to get insight of all the dependencies used in the projects .
  * sequelize
  * sequelize-cli
  
-To run the project you have to install :
+## To run the project you have to install :
 ## nodemon
 ```npm install nodemon```
 
