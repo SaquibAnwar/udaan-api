@@ -1,5 +1,5 @@
 # HouseKeeping API (Udaan.com)
->api made of udaan.com's test.
+>api made for udaan.com's test.
 
 ### Framework Used : Node.js
 >make sure you have node.js installed in your system.
