@@ -23,7 +23,7 @@ Refer package.json to get insight of all the dependencies used in the projects .
  * sequelize-cli
  
 To run the project you have to install :
-##nodemon
+## nodemon
 ```npm install nodemon```
 
 ## Run project using the command "npm start" and make sure you have all the dependencies installed.
